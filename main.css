@@ -1,0 +1,16 @@
+#left{
+    border: 1px solid yellow;
+}
+#right{
+    border: 3px dashed red;
+}
+
+.sides{
+    display: inline-block;
+    width: 49%;
+    background-color: black;
+}
+#low{
+    font-weight: 900;font-style: italic;
+    color: azure;
+}
