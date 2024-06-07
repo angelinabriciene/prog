@@ -1,0 +1,29 @@
+.box55{
+    display: inline-block;
+    width: 55%;
+}
+.box43{
+    display:inline-block; 
+    width: 43%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.container{
+    /* display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px; */
+    /* width: 900px; */
+}
+#left{
+display: inline-block;
+width: 45%;
+}
+#right{
+display: inline-block;
+width: 45%;
+}

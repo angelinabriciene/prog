@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(225,250,255);
+}
+#container{
+    margin-top: 120px;
+    margin-left: 200px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+#container > *{
+    display: inline-block;
+}
+#left{
+    width: 300px;
+    color: rgb(79,60,188);
+    text-align: center;
+    margin-top: 100px;
+}
+#right{
+
+}
+#down{
+    color: black;
+    margin-left: 270px;
+    margin-top: 20px;
+
+}
+h1{
+    font-size: 90px;
+}
+p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+#homepage{
+    width: 230px;
+    margin-top: 20px;
+    margin-left: 35px;
+    padding: 20px;
+    background-color: rgb(52,204,217);
+    font-weight: 900;
+}
