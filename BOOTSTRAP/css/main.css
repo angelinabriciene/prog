@@ -1,22 +1,9 @@
-/* .container{
-    text-align: center;
-    color: white;
+.big {
+    height: 500px;
 }
-.container .col {
-    border: 1px solid white;
+.small {
+    height: 250px;
 }
-.container .col-2 {
-    border: 1px solid white;
+.border {
+    border: 1px black;
 }
-.container .col-3 {
-    border: 1px solid white;
-}
-.container .col-4 {
-    border: 1px solid white;
-}
-.container .col-5 {
-    border: 1px solid white;
-}
-.container .col-6 {
-    border: 1px solid white;
-} */
