@@ -14,3 +14,8 @@
 .row5 {
     margin-top: 15px;
 }
+.input {
+    background-color: #adb5bd; /* light gray background */
+    border: 1px solid #adb5bd; /* light gray border */
+    color: #666869; /* dark gray text */
+  }
